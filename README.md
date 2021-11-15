@@ -1,9 +1,9 @@
 # Machine Learning using NEAT to play Flappy Bird
 
 ## Index:
-* ### [Flappy Bird] (#fb)<br>
-* ### [Algorithm] (#algo)<br>
-* ### [Instruction] (#inst)<br>
+* ### [Flappy Bird](#fb)<br>
+* ### [Algorithm](#algo)<br>
+* ### [Instruction](#inst)<br>
 
 ## Flappy Bird (Original Game) <a id=fb> </a>
 
