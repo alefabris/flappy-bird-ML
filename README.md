@@ -1,16 +1,16 @@
 # Machine Learning using NEAT to play Flappy Bird
 
 ## Index:
-* ### Flappy Bird (#fb)<br>
-* ### Algorithm (#algo)<br>
-* ### Instruction (#inst)<br>
+* ### [Flappy Bird] (#fb)<br>
+* ### [Algorithm] (#algo)<br>
+* ### [Instruction] (#inst)<br>
 
-## Flappy Bird (Original Game)<a id=fb> </a>
+## Flappy Bird (Original Game) <a id=fb> </a>
 
 Flappy Bird is a mobile game developed by Vietnamese video game artist and programmer Dong Nguyen (Vietnamese: Nguyễn Hà Đông), under his game development company [.Gears](http://dotgears.com). The game is a side-scroller where the player controls a bird, attempting to fly between columns of green pipes without hitting them. Nguyen created the game over the period of several days, using a bird protagonist that he had designed for a cancelled game in 2012.
 
 
-## Algorithm:<a id=algo> </a>
+## Algorithm: <a id=algo> </a>
 * ### [Neural Network (NN)](#nn)<br>
 * ### [Genetic Algorithm (GA)](#ga)<br>
 * ### [NeuroEvolution of Augmenting Topologies (NEAT)](#neat)<br>
